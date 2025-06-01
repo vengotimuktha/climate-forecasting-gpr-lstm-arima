@@ -62,7 +62,6 @@ We aimed to **forecast future temperature anomalies** and **quantify uncertainty
 ### Temperature Variable Distributions  
 ![Temperature Histograms](temp_variable_histograms.png)
 
-
 ### Model Performance Comparison  
 ![Performance Metrics](model_performance_comparison.png)
 
