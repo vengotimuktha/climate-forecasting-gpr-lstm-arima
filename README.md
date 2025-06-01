@@ -48,7 +48,7 @@ We aimed to **forecast future temperature anomalies** and **quantify uncertainty
 |--------------|--------|-------|----------|-----------------------------|
 | GPR          | **0.26** | 0.18 | 0.89     |  Yes (confidence intervals) |
 | SARIMA       | 0.34   | 0.22 | 0.72     |  No                        |
-| LSTM         | 0.28   | **0.17** | **0.91** | ⚠ Partial (via dropout)     |
+| LSTM         | 0.28   | **0.17** | **0.91** |  Partial (via dropout)     |
 
 >  **GPR provided the best balance of accuracy and interpretability**.
 
