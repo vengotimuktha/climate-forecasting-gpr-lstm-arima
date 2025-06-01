@@ -121,7 +121,8 @@ climate-forecasting-gpr-lstm-arima/
 -  `pdm_project_code.ipynb` — Main modeling notebook  
 -  `Final Project Report - Group 6.pdf` — Summary, plots, and insights  
 -  `GlobalTemperatures.csv` — Cleaned data for training  
-  > _( [Watch Demo Video]([https://drive.google.com/your-link](https://drive.google.com/file/d/1_CuqvnsXLYMlBWNTnA5s1anJa7vU47yi/view?usp=drive_link)))_
+  > _[ Watch Demo Video](https://drive.google.com/file/d/1_CuqvnsXLYMlBWNTnA5s1anJa7vU47yi/view?usp=drive_link)_
+
 
 ---
 
